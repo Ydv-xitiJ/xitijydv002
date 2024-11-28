@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-xitijydv002/xitijydv002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+xitijydv/xitijydv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
