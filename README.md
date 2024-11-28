@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Javascript,python.
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me ...yadavkshitij2424@gmail.com
+- 📫 How to reach me ... yadavkshitij2424@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 
